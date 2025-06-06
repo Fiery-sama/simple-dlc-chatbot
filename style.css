@@ -5,22 +5,6 @@ body {
   padding: 0;
 }
 
-/* Chat Toggle Button */
-#chat-toggle {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  padding: 12px 18px;
-  font-size: 16px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-  z-index: 999;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
 /* Chatbot Window */
 #chatbot-container {
   position: fixed;
@@ -31,7 +15,7 @@ body {
   background: white;
   border: 2px solid #007bff;
   border-radius: 12px;
-  display: none;
+  display: flex;
   flex-direction: column;
   overflow: hidden;
   z-index: 1000;
@@ -93,10 +77,6 @@ body {
 
 /* Responsive for Mobile: Fullscreen View */
 @media (max-width: 768px) {
-  #chat-toggle {
-    display: none;
-  }
-
   #chatbot-container {
     top: 0;
     right: 0;
