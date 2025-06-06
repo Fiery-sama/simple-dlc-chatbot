@@ -1,0 +1,203 @@
+[
+  {
+    "question": "How do I send a photo on WhatsApp?",
+    "answer": "1. Open the chat.\n2. Tap the 📎 icon.\n3. Select 'Gallery' or 'Camera'.\n4. Choose or take a photo.\n5. Tap Send."
+  },
+  {
+    "question": "How do I create a WhatsApp group?",
+    "answer": "1. Open WhatsApp.\n2. Tap the three-dot menu.\n3. Select 'New Group'.\n4. Add members and group name.\n5. Tap Create."
+  },
+  {
+    "question": "How to delete a WhatsApp message?",
+    "answer": "1. Long press the message.\n2. Tap the 🗑️ trash icon.\n3. Select 'Delete for everyone' or 'Delete for me'."
+  },
+  {
+    "question": "What is Google Pay?",
+    "answer": "Google Pay is a digital wallet used to send or receive money via UPI. It works with bank accounts securely and instantly."
+  },
+  {
+    "question": "How do I send money using Google Pay?",
+    "answer": "1. Open Google Pay.\n2. Select a contact or enter UPI ID.\n3. Enter amount.\n4. Tap Pay.\n5. Enter UPI PIN to confirm."
+  },
+  {
+    "question": "How do I check my balance on Paytm?",
+    "answer": "1. Open Paytm.\n2. Tap on 'Balance & History'.\n3. Enter your UPI PIN to view your account balance."
+  },
+  {
+    "question": "How to add money to Paytm Wallet?",
+    "answer": "1. Open Paytm app.\n2. Tap 'Paytm Wallet'.\n3. Tap 'Add Money'.\n4. Enter amount and choose payment method.\n5. Tap Add."
+  },
+  {
+    "question": "How to book train tickets on Paytm?",
+    "answer": "1. Open Paytm.\n2. Tap 'Train Tickets'.\n3. Enter route and date.\n4. Select train and seat.\n5. Complete payment."
+  },
+  {
+    "question": "How to share location on Google Maps?",
+    "answer": "1. Open Google Maps.\n2. Tap on the blue location dot.\n3. Select 'Share your location'.\n4. Choose duration and recipient."
+  },
+  {
+    "question": "How do I find nearby ATMs in Google Maps?",
+    "answer": "1. Open Google Maps.\n2. Search 'ATMs near me'.\n3. View options and directions on the map."
+  },
+  {
+    "question": "How to use Google Maps offline?",
+    "answer": "1. Open Google Maps.\n2. Tap your profile photo > Offline maps.\n3. Select area to download.\n4. Tap 'Download'."
+  },
+  {
+    "question": "What is UPI?",
+    "answer": "UPI (Unified Payments Interface) allows instant money transfer between banks using a mobile number or UPI ID."
+  },
+  {
+    "question": "How to scan a QR code in Paytm?",
+    "answer": "1. Open Paytm.\n2. Tap the QR code scanner.\n3. Point your camera to the QR code.\n4. Enter amount and pay."
+  },
+  {
+    "question": "What is a UPI PIN?",
+    "answer": "A UPI PIN is a 4 or 6-digit passcode that you set while linking your bank account to UPI apps. It's required for transactions."
+  },
+  {
+    "question": "How to create a Paytm account?",
+    "answer": "1. Download the Paytm app.\n2. Tap 'Create Account'.\n3. Enter your phone number and OTP.\n4. Set a password to complete registration."
+  },
+  {
+    "question": "How do I search a place on Google Maps?",
+    "answer": "1. Open Google Maps.\n2. Type the place name in the search bar.\n3. Tap the correct result.\n4. View location and directions."
+  },
+  {
+    "question": "How to make WhatsApp video calls?",
+    "answer": "1. Open a chat.\n2. Tap the 📹 video icon.\n3. Wait for the other person to answer."
+  },
+  {
+    "question": "Can I send documents via WhatsApp?",
+    "answer": "Yes! Tap the 📎 icon > Document > Select your file > Tap Send."
+  },
+  {
+    "question": "How to add bank account in Google Pay?",
+    "answer": "1. Open Google Pay.\n2. Tap your profile icon.\n3. Tap 'Bank account'.\n4. Tap 'Add bank account' and follow steps."
+  },
+  {
+    "question": "How do I recharge my mobile on Paytm?",
+    "answer": "1. Open Paytm app.\n2. Tap 'Recharge & Bill Payments'.\n3. Enter your number and plan.\n4. Make payment."
+  },
+  {
+    "question": "How to reset my UPI PIN?",
+    "answer": "1. Open your UPI app (e.g., Google Pay or Paytm).\n2. Go to 'Bank Accounts'.\n3. Tap 'Forgot UPI PIN'.\n4. Enter last 6 digits of your debit card & expiry.\n5. Set a new UPI PIN."
+  },
+  {
+    "question": "How to send voice messages on WhatsApp?",
+    "answer": "1. Open a chat.\n2. Press and hold the 🎤 mic icon.\n3. Speak and release to send."
+  },
+  {
+    "question": "How to enable dark mode on WhatsApp?",
+    "answer": "1. Open WhatsApp Settings.\n2. Tap 'Chats'.\n3. Tap 'Theme'.\n4. Choose 'Dark'."
+  },
+  {
+    "question": "How to block someone on WhatsApp?",
+    "answer": "1. Open the chat.\n2. Tap the 3-dot menu > 'More'.\n3. Select 'Block'."
+  },
+  {
+    "question": "How to unblock someone on WhatsApp?",
+    "answer": "1. Go to WhatsApp Settings > Privacy > Blocked Contacts.\n2. Tap on the contact > Unblock."
+  },
+  {
+    "question": "What is Paytm Wallet?",
+    "answer": "Paytm Wallet is a digital wallet to store money for easy payments and transfers without bank delays."
+  },
+  {
+    "question": "Can I send money from Paytm to bank?",
+    "answer": "Yes. Go to Paytm > 'Send Money to Bank A/c' > Enter details > Send."
+  },
+  {
+    "question": "How to delete Paytm account?",
+    "answer": "1. Open Paytm.\n2. Go to Help & Support.\n3. Search 'Close Account'.\n4. Submit request."
+  },
+  {
+    "question": "How to change default payment method in Google Pay?",
+    "answer": "1. Open Google Pay.\n2. Tap Profile > Payment Methods.\n3. Set your preferred account as default."
+  },
+  {
+    "question": "How to check UPI ID in Google Pay?",
+    "answer": "1. Open Google Pay.\n2. Tap your photo (top right).\n3. Go to 'Bank account' > UPI ID shown there."
+  },
+  {
+    "question": "How to navigate with voice in Google Maps?",
+    "answer": "1. Start a route.\n2. Tap 'Start'.\n3. Keep sound on to hear voice navigation."
+  },
+  {
+    "question": "How to save favorite places in Google Maps?",
+    "answer": "1. Search a location.\n2. Tap 'Save'.\n3. Choose a list like Favorites or create your own."
+  },
+  {
+    "question": "How to avoid tolls in Google Maps?",
+    "answer": "1. After entering destination, tap 'Options'.\n2. Turn on 'Avoid tolls'.\n3. Start navigation."
+  },
+  {
+    "question": "How to check mobile recharge history on Paytm?",
+    "answer": "1. Open Paytm.\n2. Tap 'Passbook'.\n3. View recharge transactions."
+  },
+  {
+    "question": "What is KYC in Paytm?",
+    "answer": "KYC stands for 'Know Your Customer'. It verifies your identity to unlock full features in Paytm."
+  },
+  {
+    "question": "How to complete KYC in Paytm?",
+    "answer": "1. Open Paytm > Tap your profile.\n2. Tap 'Complete KYC'.\n3. Submit Aadhaar or visit nearby center."
+  },
+  {
+    "question": "How to change WhatsApp DP?",
+    "answer": "1. Go to WhatsApp Settings.\n2. Tap your photo > Tap camera icon.\n3. Choose a new photo."
+  },
+  {
+    "question": "How to add UPI ID in Paytm?",
+    "answer": "1. Open Paytm.\n2. Go to 'Profile'.\n3. Tap 'UPI & Linked Bank Accounts'.\n4. Follow prompts to add."
+  },
+  {
+    "question": "How to pay electricity bill on Paytm?",
+    "answer": "1. Open Paytm.\n2. Tap 'Electricity Bill'.\n3. Select provider.\n4. Enter details and pay."
+  },
+  {
+    "question": "How to transfer money from Google Pay to Paytm?",
+    "answer": "Use UPI: Open GPay > Enter Paytm UPI ID > Enter amount > Pay securely."
+  },
+  {
+    "question": "What is FASTag?",
+    "answer": "FASTag is an electronic toll payment system. It's linked to your vehicle and Paytm Wallet or bank account."
+  },
+  {
+    "question": "How to order food online using Google?",
+    "answer": "Search 'Food near me' on Google > Choose a restaurant > Tap 'Order' via Zomato/Swiggy."
+  },
+  {
+    "question": "How to order medicines online?",
+    "answer": "Use apps like 1mg, Netmeds or Pharmeasy. Select medicines > Upload prescription > Place order."
+  },
+  {
+    "question": "How to download WhatsApp?",
+    "answer": "Go to Play Store or App Store > Search 'WhatsApp' > Tap Install."
+  },
+  {
+    "question": "How to scan QR code in Google Pay?",
+    "answer": "Open GPay > Tap Scan QR > Point camera at code > Confirm payment."
+  },
+  {
+    "question": "Can I recharge DTH with Paytm?",
+    "answer": "Yes. Go to Paytm > Tap 'DTH Recharge' > Select provider > Enter subscriber ID > Recharge."
+  },
+  {
+    "question": "What is mobile hotspot?",
+    "answer": "A hotspot lets you share your mobile data with other devices using Wi-Fi."
+  },
+  {
+    "question": "How to turn on mobile hotspot?",
+    "answer": "Go to Settings > Mobile Hotspot > Turn on > Set password > Share Wi-Fi."
+  },
+  {
+    "question": "How to pay gas bill online?",
+    "answer": "Use Paytm, GPay or your gas provider’s website/app. Enter consumer number > Pay bill online."
+  },
+  {
+    "question": "How to update mobile number in Aadhaar?",
+    "answer": "Visit UIDAI website > Book appointment or visit nearest Aadhaar center > Carry valid ID for update."
+  }
+
+]
