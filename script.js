@@ -49,12 +49,6 @@ function addMessage(sender, text) {
   chatWindow.scrollTop = chatWindow.scrollHeight;
 }
 
-// Toggle chatbot on desktop
-document.getElementById("chat-toggle").addEventListener("click", () => {
-  const chat = document.getElementById("chatbot-container");
-  chat.style.display = chat.style.display === "flex" ? "none" : "flex";
-});
-
 // Auto-show chatbot on mobile
 window.addEventListener("DOMContentLoaded", () => {
   if (window.innerWidth <= 768) {
